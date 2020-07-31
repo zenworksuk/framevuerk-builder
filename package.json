@@ -1,5 +1,5 @@
 {
-  "name": "framevuerk-builder",
+  "name": "@zenworks/framevuerk-builder",
   "version": "2.0.7",
   "description": "Framevuerk builder package.",
   "main": "index.js",
