@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/framevuerk/framevuerk-builder.git"
+    "url": "git+https://github.com/zenworsuk/framevuerk-builder.git"
   },
   "keywords": [
     "framevuerk",
@@ -18,9 +18,9 @@
   "author": "nainemom <nainemom@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/framevuerk/framevuerk-builder/issues"
+    "url": "https://github.com/zenworsuk/framevuerk-builder/issues"
   },
-  "homepage": "https://github.com/framevuerk/framevuerk-builder#readme",
+  "homepage": "https://github.com/zenworsuk/framevuerk-builder#readme",
   "peerDependencies": {
     "framevuerk": ">=2.0.0"
   },
